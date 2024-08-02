@@ -1,0 +1,14 @@
+{
+    "FIX_1_title": "\"Apparaat uitgeschakeld\"",
+    "FIX_1_description": "Als het apparaat niet inschakelt, sluit het dan aan op de iPort Multi Dock voor iPhones of de iPort Base Station/Pillar en controleer of het apparaat oplaadt en inschakelt.\n\na. Als de iPhone niet oplaadt via de iPorts, verwijder dan de iPort-adapterstekker uit de hoes en sluit deze aan op de Apple-wandoplader.\nb. Als de iPad niet oplaadt, verwijder deze dan uit de iPort-hoes en sluit hem aan op de Apple-wandoplader.\n\nAls het apparaat nog steeds niet oplaadt, dien dan een ticket in voor RMA (vervanging) van het apparaat.",
+    "FIX_2_title": "Netwerkverbinding verloren",
+    "FIX_2_description": "In het geval dat er problemen zijn met het verbinden met uw Wi-Fi op uw iPhone of iPad.\n\n1. Zorg ervoor dat uw router is ingeschakeld.\n2. Zorg ervoor dat het apparaat binnen bereik is.\n3. Controleer of Wi-Fi is ingeschakeld en of u uw netwerk kunt zien.\n4. Herstart het apparaat.\n\nOpmerking: Als u de bovenstaande stappen heeft gevolgd, tikt u op 'Opgelost' en het systeem zal de status van het probleem bijwerken na een succesvolle systeemcontrole na enige tijd. Als u nog steeds problemen ondervindt, tikt u op 'Probleem melden' om ons ondersteuningsteam op de hoogte te brengen.",
+    "FIX_3_title": "Oplaadprobleem",
+    "FIX_3_description": "Als het apparaat niet inschakelt, sluit het dan aan op de iPort Multi Dock voor iPhones of de iPort Base Station/Pillar en controleer of het apparaat oplaadt en inschakelt.\n\na. Als de iPhone niet oplaadt met de iPorts, verwijder dan de iPort-adapterstekker uit de hoes en sluit hem aan op de Apple-wandlader.\nb. Als de iPad niet oplaadt, verwijder deze dan uit de iPort-hoes en sluit hem aan op de Apple-wandlader.\n\nAls het apparaat nog steeds niet oplaadt, dien dan een ticket in voor RMA (vervanging) van het apparaat.",
+    "FIX_4_title": "Apparaat gestolen of verloren",
+    "FIX_4_description": "Als het apparaat ontbreekt in de winkel, dien dan een ticket in voor een verloren/gestolen apparaat door op de knop \"Probleem melden\" te tikken.",
+    "FIX_5_title": "Apparaat beschadigd of kapot",
+    "FIX_5_description": "Als het apparaat kapot of beschadigd is, dien dan een ticket in voor een verloren/gestolen apparaat door op de knop \"Probleem melden\" te tikken.",
+    "FIX_6_title": "Apparaat wil niet inschakelen.",
+    "FIX_6_description": "Als het apparaat niet inschakelt, sluit het dan aan op de iPort Multi Dock voor iPhones of iPort Base Station/Pillar en controleer of het apparaat oplaadt en inschakelt.\n\na. Als de iPhone niet oplaadt via de iPorts, verwijder dan de iPort-adapterstekker uit de hoes en sluit deze aan op de Apple-wandlader.\nb. Als de iPad niet oplaadt, verwijder deze dan uit de iPort-hoes en sluit deze aan op de Apple-wandlader.\n\nAls het apparaat nog steeds niet oplaadt, dien dan een ticket in voor RMA (vervanging) van het apparaat."
+}

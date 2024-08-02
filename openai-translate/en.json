@@ -1,0 +1,14 @@
+{
+    "FIX_1_title": "\"Device switched off\"",
+    "FIX_1_description": "If the device does not turn on, connect it to the iPort Multi Dock for iPhones or iPort Base Station/Pillar to see if it charges and powers on.\n\na. If the iPhone does not charge when using iPorts, remove the iPort adapter plug from the case and connect it to an Apple wall charger.\nb. If the iPad does not charge, remove it from the iPort case and connect it to an Apple wall charger.\n\nIf the device still does not charge, please submit a ticket for RMA (replacement) of the device.",
+    "FIX_2_title": "Network Connection Lost",
+    "FIX_2_description": "In case you are having trouble connecting to your Wi-Fi on your iPhone or iPad.\n\n1. Make sure your router is turned on.\n2. Ensure that the device is within range.\n3. Verify that Wi-Fi is turned on and you can see your network.\n4. Restart the device.\n\nNote: If you follow the above steps and the issue is resolved, tap on 'Resolved' and the system will update the issue status after a successful system check. If you still encounter the issue, tap on 'Raise issue' to inform our support team.",
+    "FIX_3_title": "\"Charging Issue\"",
+    "FIX_3_description": "If the device does not turn on, connect it to the iPort Multi Dock for iPhones or the iPort Base Station/Pillar and check if the device charges and turns on.\n\na. If the iPhone does not charge when using iPorts, remove the iPort adapter plug from the case and connect it to an Apple wall charger.\nb. If the iPad does not charge, remove it from the iPort case and connect it to an Apple wall charger.\n\nIf the device still does not charge, please submit a ticket for a replacement (RMA) of the device.",
+    "FIX_4_title": "\"Device stolen or lost\"",
+    "FIX_4_description": "If the device is missing from the store, submit a Lost/Stolen Device ticket by tapping on the “Report Issue” button.",
+    "FIX_5_title": "\"Device damaged or broken\"",
+    "FIX_5_description": "If the device is broken or damaged, please submit a Lost/Stolen Device ticket by tapping on the “Report Issue” button.",
+    "FIX_6_title": "\"Device won’t power on\" means that the device is not turning on or starting up.",
+    "FIX_6_description": "If the device does not turn on, connect it to the iPort Multi Dock for iPhones or iPort Base Station/Pillar to see if it charges and turns on.\n\na. If the iPhone does not charge when using iPorts, remove the iPort adapter plug from the case and connect it to an Apple wall charger.\nb. If the iPad does not charge, remove it from the iPort case and connect it to an Apple wall charger.\n\nIf the device still does not charge, submit a ticket for RMA (replacement) of the device."
+}

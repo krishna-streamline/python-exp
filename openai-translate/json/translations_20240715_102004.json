@@ -1,0 +1,272 @@
+{
+    "ca": {
+        "Title": [
+            "\"Dispositiu apagat\"",
+            "Connexió a la xarxa perduda",
+            "Problema de càrrega",
+            "Dispositiu robat o perdut",
+            "Dispositiu danyat o trencat",
+            "El dispositiu no s'encén."
+        ],
+        "Description": [
+            "Si el dispositiu no s'encén, connecta'l a l'iPort Multi Dock per a iPhones o a l'iPort Base Station/Pillar i comprova si el dispositiu carrega i s'encén.\n\na. Si l'iPhone no es carrega amb els iPorts, treu l'adaptador de l'iPort de la funda i connecta'l a un carregador de paret d'Apple.\nb. Si l'iPad no es carrega, treu-lo de la funda de l'iPort i connecta'l a un carregador de paret d'Apple.\n\nSi el dispositiu encara no es carrega, envia una sol·licitud de RMA (reemplaçament) del dispositiu.",
+            "En cas que tinguis problemes per connectar-te al teu Wi-Fi des de l'iPhone o l'iPad.\n\n1. Assegura't que el teu router estigui ences.\n2. Garanteix que el dispositiu estigui dins del rang.\n3. Assegura't que el Wi-Fi estigui activat i puguis veure la teva xarxa.\n4. Reinicia el dispositiu.\n\nNota: Si segueixes els passos anteriors i toques a \"Resolt\", el sistema actualitzarà l'estat del problema després de realitzar una comprovació del sistema amb èxit després d'un temps. Si encara tens problemes, toca a \"Planteja un problema\" per informar al nostre equip de suport.",
+            "Si el dispositiu no s'encén, connecta'l a l'iPort Multi Dock per a iPhones o a l'iPort Base Station/Pillar i comprova si el dispositiu es carrega i s'encén.\n\na. Si l'iPhone no es carrega amb els iPorts, treu l'adaptador de l'iPort de la funda i connecta'l al carregador d'aplicacions.\nb. Si l'iPad no es carrega, treu'l de la funda i connecta'l al carregador d'aplicacions.\n\nSi el dispositiu encara no es carrega, envia una sol·licitud de RMA (reemplaçament) del dispositiu.",
+            "Si el dispositiu falta a la botiga, envia una sol·licitud de Dispositiu Perdut/Robat prement el botó \"Informar d'un problema\".",
+            "Si el dispositiu està trencat o danyat, envieu una sol·licitud de dispositiu perdut/robat prement el botó \"Informar d'un problema\".",
+            "Si el dispositiu no s'encén, connecta'l a l'iPort Multi Dock per a iPhones o a l'iPort Base Station/Pillar i comprova si el dispositiu es carrega i s'encén.\n\na. Si l'iPhone no es carrega amb els iPorts, treu l'adaptador de l'iPort de la funda i connecta'l al carregador d'pared d'Apple.\nb. Si l'iPad no es carrega, treu-lo de la funda de l'iPort i connecta'l al carregador d'pared d'Apple.\n\nSi el dispositiu encara no es carrega, envia una sol·licitud de RMA (reemplaçament) del dispositiu."
+        ]
+    },
+    "ar": {
+        "Title": [
+            "الجهاز مُغلَق.",
+            "الاتصال بالشبكة قد فُقد",
+            "مشكلة الشحن",
+            "الجهاز تم سرقته أو فُقد.",
+            "الجهاز تالف أو مكسور",
+            "الجهاز لا يشتغل"
+        ],
+        "Description": [
+            "إذا لم يعمل الجهاز، قم بتوصيله بـ iPort Multi Dock for iPhones أو iPort Base Station/Pillar وتحقق مما إذا كان الجهاز يشحن ويعمل.\n\nأ. إذا لم يشحن iPhone باستخدام iPorts، قم بإزالة محول iPort من الحافظة وقم بتوصيله بشاحن جداري من Apple.\nب. إذا لم يشحن iPad، قم بإزالته من الحافظة iPort وقم بتوصيله بشاحن جداري من Apple.\n\nإذا لم يشحن الجهاز بعد ذلك، قدم تذكرة لـ RMA (استبدال) الجهاز.",
+            "في حال واجهت مشكلة في الاتصال بشبكة الواي فاي على هاتفك الآيفون أو جهاز الآيباد:\n\n1. تأكد من تشغيل جهاز التوجيه (الراوتر).\n2. تأكد من أن الجهاز داخل نطاق الإشارة.\n3. تأكد من تشغيل الواي فاي ورؤية الشبكة الخاصة بك.\n4. أعد تشغيل الجهاز.\n\nملاحظة: إذا تم اتباع الخطوات أعلاه من قبلك، اضغط على \"تم الحل\" وسيقوم النظام بتحديث حالة المشكلة بعد فحص النظام بنجاح بعد فترة من الزمن. إذا كنت ما زلت تواجه المشكلة، اضغط على \"رفع مشكلة\" لإبلاغ فريق الدعم الخاص بنا.",
+            "إذا لم يُشغل الجهاز، قم بتوصيله بـ iPort Multi Dock للآيفون أو iPort Base Station/Pillar وتحقق مما إذا كان الجهاز يشحن ويعمل.\n\nأ. إذا لم يشحن الآيفون باستخدام iPorts، افصل محول iPort من الحافظة وقم بتوصيله بشاحن جداري من Apple.\nب. إذا لم يشحن الآيباد، افصله من الحافظة iPort وقم بتوصيله بشاحن جداري من Apple.\n\nإذا لم يشحن الجهاز بعد ذلك، قدّم طلبًا لاستبدال الجهاز.",
+            "إذا كان الجهاز مفقودًا من المتجر، قم بتقديم طلب لجهاز مفقود/مسروق عن طريق النقر على زر \"الإبلاغ عن مشكلة\".",
+            "إذا كان الجهاز مكسورًا أو تالفًا، قم بتقديم طلب تذكرة للجهاز المفقود/المسروق عن طريق النقر على زر \"الإبلاغ عن مشكلة\".",
+            "إذا لم يُشغّل الجهاز، قم بتوصيله بـ iPort Multi Dock للآيفونات أو iPort Base Station/Pillar وتحقق مما إذا كان الجهاز يشحن ويعمل.\n\nأ. إذا لم يتم شحن الآيفون باستخدام iPorts، افصل محول iPort من الحافظة وقم بتوصيله بشاحن جداري من آبل.\nب. إذا لم يتم شحن الآيباد، افصله من الحافظة iPort وقم بتوصيله بشاحن جداري من آبل.\n\nإذا لم يتم شحن الجهاز بعد، قم بتقديم تذكرة للحصول على جهاز جديد (RMA)."
+        ]
+    },
+    "nl": {
+        "Title": [
+            "\"Apparaat uitgeschakeld\"",
+            "Netwerkverbinding verbroken",
+            "Laadprobleem",
+            "Apparaat gestolen of verloren",
+            "Apparaat beschadigd of gebroken",
+            "Apparaat wil niet inschakelen."
+        ],
+        "Description": [
+            "Als het apparaat niet inschakelt, sluit het dan aan op de iPort Multi Dock voor iPhones of de iPort Base Station/Pillar en controleer of het apparaat oplaadt en inschakelt.\n\na. Als de iPhone niet oplaadt met de iPorts, verwijder dan de iPort-adapterstekker uit de hoes en sluit deze aan op de Apple-wandlader.\nb. Als de iPad niet oplaadt, verwijder deze dan uit de iPort-hoes en sluit deze aan op de Apple-wandlader.\n\nAls het apparaat nog steeds niet oplaadt, dien dan een ticket in voor RMA (vervanging) van het apparaat.",
+            "In het geval dat er een probleem is met het verbinden met uw Wi-Fi op uw iPhone of iPad.\n\n1. Zorg ervoor dat uw router is ingeschakeld.\n2. Zorg ervoor dat het apparaat binnen bereik is.\n3. Zorg ervoor dat Wi-Fi is ingeschakeld en u uw netwerk kunt zien.\n4. Herstart het apparaat.\n\nOpmerking: Als u de bovenstaande stappen heeft gevolgd, tik dan op 'Opgelost' en het systeem zal de status van het probleem bijwerken na een succesvolle systeemcontrole na enige tijd. Als u nog steeds problemen ondervindt, tik dan op 'Probleem melden' om ons ondersteuningsteam op de hoogte te stellen.",
+            "Als het apparaat niet inschakelt, sluit het dan aan op de iPort Multi Dock voor iPhones of de iPort Base Station/Pillar en controleer of het apparaat oplaadt en inschakelt.\n\na. Als de iPhone niet oplaadt met de iPorts, verwijder dan de iPort-adapterstekker uit de hoes en sluit deze aan op de Apple-wandlader.\nb. Als de iPad niet oplaadt, verwijder deze dan uit de iPort-hoes en sluit deze aan op de Apple-wandlader.\n\nAls het apparaat nog steeds niet oplaadt, dien dan een ticket in voor RMA (vervanging) van het apparaat.",
+            "Als het apparaat ontbreekt in de winkel, dien dan een ticket in voor een verloren/gestolen apparaat door op de knop \"Probleem melden\" te tikken.",
+            "Als het apparaat kapot of beschadigd is, dien dan een ticket in voor een verloren/gestolen apparaat door op de knop \"Probleem melden\" te tikken.",
+            "Als het apparaat niet inschakelt, sluit het dan aan op de iPort Multi Dock voor iPhones of de iPort Base Station/Pillar en controleer of het apparaat oplaadt en inschakelt.\n\na. Als de iPhone niet oplaadt via de iPorts, verwijder dan de iPort-adapterstekker uit de hoes en sluit deze aan op een Apple-wandoplader.\nb. Als de iPad niet oplaadt, verwijder deze dan uit de iPort-hoes en sluit deze aan op een Apple-wandoplader.\n\nAls het apparaat nog steeds niet oplaadt, dien dan een ticket in voor RMA (vervanging) van het apparaat."
+        ]
+    },
+    "fr": {
+        "Title": [
+            "\"Appareil éteint\"",
+            "Connexion réseau perdue",
+            "Problème de charge",
+            "Appareil volé ou perdu",
+            "Appareil endommagé ou cassé",
+            "L'appareil ne s'allume pas."
+        ],
+        "Description": [
+            "Si l'appareil ne s'allume pas, connectez-le à l'iPort Multi Dock pour iPhones ou à la Station de Base/Pilier iPort et vérifiez si l'appareil se charge et s'allume.\n\na. Si l'iPhone ne se charge pas en utilisant les iPorts, retirez la fiche d'adaptateur iPort du boîtier et connectez-la au chargeur mural Apple.\nb. Si l'iPad ne se charge pas, retirez-le du boîtier iPort et connectez-le au chargeur mural Apple.\n\nSi l'appareil ne se charge toujours pas, soumettez un ticket pour le RMA (remplacement) de l'appareil.",
+            "Au cas où il y aurait un problème de connexion à votre Wi-Fi sur votre iPhone ou iPad.\n\n1. Assurez-vous que votre routeur est allumé.\n2. Vérifiez que l'appareil est dans la plage de connexion.\n3. Assurez-vous que le Wi-Fi est activé et que vous pouvez voir votre réseau.\n4. Redémarrez l'appareil.\n\nNote : Si les étapes ci-dessus ont été suivies par vous, appuyez sur \"Résolu\" et le système mettra à jour l'état du problème après une vérification réussie du système après un certain temps. Si vous rencontrez toujours le problème, appuyez sur \"Soulever un problème\" pour informer notre équipe de support.",
+            "Si l'appareil ne s'allume pas, connectez-le au iPort Multi Dock pour iPhone ou à la Station de Base/Pilier iPort et vérifiez si l'appareil se charge et s'allume.\n\na. Si l'iPhone ne se charge pas avec les iPorts, retirez la fiche d'adaptateur iPort du boîtier et connectez-la à un chargeur mural Apple.\nb. Si l'iPad ne se charge pas, retirez-le du boîtier iPort et connectez-le à un chargeur mural Apple.\n\nSi l'appareil ne se charge toujours pas, soumettez un ticket pour un RMA (remplacement) de l'appareil.",
+            "Si l'appareil est manquant dans le magasin, soumettez un ticket pour appareil perdu/volé en appuyant sur le bouton \"Signaler un problème\".",
+            "Si l'appareil est cassé ou endommagé, soumettez un ticket pour appareil perdu/volé en appuyant sur le bouton \"Signaler un problème\".",
+            "Si l'appareil ne s'allume pas, connectez-le à l'iPort Multi Dock pour iPhone ou à la Station de Base/Pilier iPort et vérifiez si l'appareil se charge et s'allume.\n\na. Si l'iPhone ne se charge pas avec les iPorts, retirez la fiche d'adaptateur iPort du boîtier et connectez-la au chargeur mural Apple.\nb. Si l'iPad ne se charge pas, retirez-le du boîtier iPort et connectez-le au chargeur mural Apple.\n\nSi l'appareil ne se charge toujours pas, soumettez un ticket pour le retour en garantie (remplacement) de l'appareil."
+        ]
+    },
+    "de": {
+        "Title": [
+            "\"Gerät ausgeschaltet\"",
+            "Verbindung zum Netzwerk verloren",
+            "Ladeproblem",
+            "Gerät gestohlen oder verloren",
+            "Gerät beschädigt oder defekt",
+            "Gerät lässt sich nicht einschalten."
+        ],
+        "Description": [
+            "Wenn das Gerät nicht eingeschaltet wird, schließen Sie es an den iPort Multi Dock für iPhones oder die iPort Base Station/Pillar an und überprüfen Sie, ob das Gerät aufgeladen wird und eingeschaltet wird.\n\na. Wenn das iPhone mit den iPorts nicht aufgeladen wird, entfernen Sie den iPort-Adapterstecker aus dem Gehäuse und schließen Sie ihn an das Apple-Wandladegerät an.\nb. Wenn das iPad nicht aufgeladen wird, nehmen Sie es aus dem iPort-Gehäuse und schließen Sie es an das Apple-Wandladegerät an.\n\nWenn das Gerät immer noch nicht aufgeladen wird, reichen Sie ein Ticket für die RMA (Austausch) des Geräts ein.",
+            "Falls es Probleme beim Verbinden mit Ihrem Wi-Fi auf Ihrem iPhone oder iPad gibt.\n\n1. Stellen Sie sicher, dass Ihr Router eingeschaltet ist.\n2. Stellen Sie sicher, dass sich das Gerät innerhalb der Reichweite befindet.\n3. Stellen Sie sicher, dass Wi-Fi eingeschaltet ist und Sie Ihr Netzwerk sehen können.\n4. Starten Sie das Gerät neu.\n\nHinweis: Wenn Sie die oben genannten Schritte befolgt haben, tippen Sie auf 'Gelöst' und das System wird den Status des Problems nach einer erfolgreichen Systemprüfung aktualisieren. Wenn das Problem weiterhin besteht, tippen Sie auf 'Problem melden', um unser Support-Team zu informieren.",
+            "Wenn das Gerät nicht eingeschaltet wird, schließen Sie es an den iPort Multi Dock für iPhones oder die iPort Base Station/Pillar an und überprüfen Sie, ob das Gerät aufgeladen und eingeschaltet wird.\n\na. Wenn das iPhone mit den iPorts nicht aufgeladen wird, entfernen Sie den iPort-Adapterstecker aus der Hülle und schließen Sie ihn an das Apple-Wandladegerät an.\nb. Wenn das iPad nicht aufgeladen wird, entfernen Sie es aus der iPort-Hülle und schließen Sie es an das Apple-Wandladegerät an.\n\nWenn das Gerät immer noch nicht aufgeladen wird, reichen Sie einen Antrag auf RMA (Austausch) des Geräts ein.",
+            "Wenn das Gerät im Geschäft fehlt, reichen Sie ein Ticket für verlorene/gestohlene Geräte ein, indem Sie auf die Schaltfläche \"Problem melden\" tippen.",
+            "Wenn das Gerät defekt oder beschädigt ist, reichen Sie ein Ticket für ein verlorenes/gestohlenes Gerät ein, indem Sie auf die Schaltfläche \"Problem melden\" tippen.",
+            "Wenn das Gerät nicht eingeschaltet wird, schließen Sie es an den iPort Multi Dock für iPhones oder die iPort Base Station/Pillar an und prüfen Sie, ob das Gerät aufgeladen wird und eingeschaltet wird.\n\na. Wenn das iPhone nicht über die iPorts aufgeladen wird, entfernen Sie den iPort-Adapterstecker vom Gehäuse und schließen Sie ihn an das Apple-Wandladegerät an.\nb. Wenn das iPad nicht aufgeladen wird, entfernen Sie es aus dem iPort-Gehäuse und schließen Sie es an das Apple-Wandladegerät an.\n\nWenn das Gerät immer noch nicht aufgeladen wird, reichen Sie ein Ticket für die RMA (Austausch) des Geräts ein."
+        ]
+    },
+    "pt": {
+        "Title": [
+            "\"Dispositivo desligado\"",
+            "Conexão de Rede Perdida",
+            "Problema de Carregamento",
+            "Dispositivo roubado ou perdido",
+            "Dispositivo danificado ou quebrado",
+            "O dispositivo não liga."
+        ],
+        "Description": [
+            "Se o dispositivo não ligar, conecte-o ao iPort Multi Dock para iPhones ou à Estação Base/Pilar iPort e verifique se o dispositivo carrega e liga.\n\na. Se o iPhone não carregar usando os iPorts, remova o plugue adaptador iPort do estojo e conecte ao carregador de parede da Apple.\nb. Se o iPad não carregar, remova do estojo iPort e conecte ao carregador de parede da Apple.\n\nSe o dispositivo ainda não carregar, envie um ticket para RMA (substituição) do dispositivo.",
+            "Caso haja problema ao conectar ao seu Wi-Fi no seu iPhone ou iPad.\n\n1. Certifique-se de que o seu router está ligado.\n2. Garanta que o dispositivo está dentro do alcance.\n3. Verifique se o Wi-Fi está ligado e se consegue ver a sua rede.\n4. Reinicie o dispositivo.\n\nNota: Se seguir os passos acima e resolver o problema, toque em 'Resolvido' e o sistema atualizará o estado do problema após uma verificação bem-sucedida. Se ainda enfrentar o problema, toque em 'Reportar problema' para informar a nossa equipa de suporte.",
+            "Se o dispositivo não ligar, conecte ao iPort Multi Dock para iPhones ou à Estação Base/Pilar iPort e verifique se o dispositivo carrega e liga.\n\na. Se o iPhone não carregar usando os iPorts, remova o plugue do adaptador iPort do estojo e conecte ao carregador de parede da Apple.\nb. Se o iPad não carregar, remova do estojo iPort e conecte ao carregador de parede da Apple.\n\nSe o dispositivo ainda não carregar, envie um ticket para RMA (substituição) do dispositivo.",
+            "Se o dispositivo estiver ausente da loja, envie um ticket de Dispositivo Perdido/Roubado tocando no botão \"Reportar Problema\".",
+            "Se o dispositivo estiver quebrado ou danificado, envie um ticket de Dispositivo Perdido/Roubado tocando no botão \"Reportar Problema\".",
+            "Se o dispositivo não ligar, conecte-o ao iPort Multi Dock para iPhones ou à Estação Base/Pilar iPort e verifique se o dispositivo carrega e liga.\n\na. Se o iPhone não carregar usando os iPorts, remova o adaptador iPort do estojo e conecte ao carregador de parede da Apple.\nb. Se o iPad não carregar, remova do estojo iPort e conecte ao carregador de parede da Apple.\n\nSe o dispositivo ainda não carregar, envie um ticket para RMA (substituição) do dispositivo."
+        ]
+    },
+    "it": {
+        "Title": [
+            "\"Dispositivo spento\"",
+            "Connessione di rete persa",
+            "Problema di ricarica",
+            "Dispositivo rubato o perso",
+            "Dispositivo danneggiato o rotto",
+            "Il dispositivo non si accende"
+        ],
+        "Description": [
+            "Se il dispositivo non si accende, collegarlo a iPort Multi Dock per iPhone o a iPort Base Station/Pillar e verificare se il dispositivo si carica e si accende.\n\na. Se l'iPhone non si carica utilizzando iPort, rimuovere la spina adattatore iPort dalla custodia e collegarla al caricabatterie da parete Apple.\nb. Se l'iPad non si carica, rimuoverlo dalla custodia iPort e collegarlo al caricabatterie da parete Apple.\n\nSe il dispositivo continua a non caricarsi, inviare un ticket per la RMA (sostituzione) del dispositivo.",
+            "Nel caso in cui ci sia un problema di connessione al tuo Wi-Fi sul tuo iPhone o iPad.\n\n1. Assicurati che il tuo router sia acceso.\n2. Verifica che il dispositivo sia all'interno del raggio d'azione.\n3. Assicurati che il Wi-Fi sia acceso e che tu possa vedere la tua rete.\n4. Riavvia il dispositivo.\n\nNota: Se segui i passaggi sopra indicati, tocca su 'Risolto' e il sistema aggiornerà lo stato del problema dopo un controllo riuscito dopo un po' di tempo. Se continui ad avere problemi, tocca su 'Segnala problema' per informare il nostro team di supporto.",
+            "Se il dispositivo non si accende, collegarlo a iPort Multi Dock per iPhone o a iPort Base Station/Pillar e verificare se il dispositivo si ricarica e si accende.\n\na. Se l'iPhone non si ricarica utilizzando iPort, rimuovere la spina dell'adattatore iPort dalla custodia e collegarla al caricabatterie da parete Apple.\nb. Se l'iPad non si ricarica, rimuoverlo dalla custodia iPort e collegarlo al caricabatterie da parete Apple.\n\nSe il dispositivo continua a non ricaricarsi, inviare una richiesta di assistenza per la sostituzione del dispositivo (RMA).",
+            "Se il dispositivo è sparito dal negozio, invia un ticket per Dispositivo Smarrito/Rubato premendo il pulsante \"Segnala Problema\".",
+            "Se il dispositivo è rotto o danneggiato, invia un ticket per dispositivi smarriti/rubati premendo sul pulsante \"Segnala problema\".",
+            "Se il dispositivo non si accende, collegarlo a iPort Multi Dock per iPhone o a iPort Base Station/Pillar e verificare se il dispositivo si carica e si accende.\n\na. Se l'iPhone non si carica utilizzando iPort, rimuovere la spina dell'adattatore iPort dalla custodia e collegarla al caricabatterie da parete Apple.\nb. Se l'iPad non si carica, rimuoverlo dalla custodia iPort e collegarlo al caricabatterie da parete Apple.\n\nSe il dispositivo continua a non caricarsi, inviare una richiesta di assistenza per la sostituzione del dispositivo (RMA)."
+        ]
+    },
+    "rm": {
+        "Title": [
+            "\"Apparat chattà sur\"",
+            "Connexiun da rets persa",
+            "Problema da carica",
+            "Apparat furà u perdì",
+            "\"Apparat daunà o rupt\"",
+            "Il dispositiv na sa lüra betg."
+        ],
+        "Description": [
+            "Sche il dispositiv na sa lascha betg auzar, collegà al iPort Multi Dock per iPhones u al iPort Base Station/Pillar e controllar sche il dispositiv se carica e sa auzescha.\n\na. Sche l'iPhone na sa carica betg utilisant ils iPorts, tgira l'adapter da iPort dal cas e collegà al caricatur da mura da Apple.\nb. Sche l'iPad na sa carica betg, tgira dal cas da iPort e collegà al caricatur da mura da Apple.\n\nSche il dispositiv anc betg sa carica, mussar ina demanda per RMA (replacement) dal dispositiv.",
+            "En cas ch'è in problem en connexiun cun il vost Wi-Fi sin il vost iPhone u iPad.\n\n1. Assicurez-Vus che Voss router è activà.\n2. Garantissez che il dispositiv è en il champ.\n3. Assicurez-Vus ch'il Wi-Fi è activà e che Voss rete è visibla.\n4. Restartez il dispositiv.\n\nNota: Sch'ins survegn las instrucziuns sutas, tschertez sin 'Risolt' e il sistem agiorna il status da problem suenter in temp post in control da sistem reussì. Sch'ins ha anc problem, tschertez sin 'Suschentar problem' per infurmar nossa equipa da support.",
+            "Sche il dispositiv na sa lüra betg, collegar a l'iPort Multi Dock per iPhones u l'iPort Base Station/Pillar e controllar sche il dispositiv carica ed alza.\n\na. Sche l'iPhone na carica betg cun iPorts, sgolar il spina dad adattatur iPort dal case e collegar al caricatur da mura d'Apple.\nb. Sche l'iPad na carica betg, sgolar dal case iPort e collegar al caricatur da mura d'Apple.\n\nSche il dispositiv anc betg carica, mandar in ticket per RMA (sostituziun) dal dispositiv.",
+            "Sche il device manca dal magazin, transmitta ina chombra da device pers/stealà, pigliand sin il butun \"Rapportar in problem\".",
+            "Sche il dispositiv è romì o damaunà, transmitter in ticket per dispositiv pers/robbà premend sin il butun \"Rapportar in problem\".",
+            "Sche il dispositiv na sa lascha betg activar, collegar al iPort Multi Dock per iPhones u al iPort Base Station/Pillar e controllar sche il dispositiv carrega e sa lascha activar.\n\na. Sche l'iPhone na carica betg cun ils iPorts, sgular il plug da l'adattatur iPort dal cass e collegar al charger da muretta Apple.\nb. Sche l'iPad na carica betg, sgular dal cass iPort e collegar al charger da muretta Apple.\n\nSche il dispositiv anc betg carica, mussar in ticket per RMA (replacement) dal dispositiv."
+        ]
+    },
+    "es": {
+        "Title": [
+            "\"Dispositivo apagado\"",
+            "Conexión de red perdida.",
+            "Problema de carga",
+            "Dispositivo robado o perdido",
+            "Dispositivo dañado o roto.",
+            "El dispositivo no se enciende."
+        ],
+        "Description": [
+            "Si el dispositivo no se enciende, conéctelo al iPort Multi Dock para iPhones o a la iPort Base Station/Pillar y verifique si el dispositivo se carga y enciende.\n\na. Si el iPhone no se carga usando los iPorts, retire el adaptador del iPort del estuche y conéctelo al cargador de pared de Apple.\nb. Si el iPad no se carga, retírelo del estuche iPort y conéctelo al cargador de pared de Apple.\n\nSi el dispositivo aún no se carga, envíe un ticket para el RMA (reemplazo) del dispositivo.",
+            "En caso de que haya problemas para conectarse a tu Wi-Fi en tu iPhone o iPad.\n\n1. Asegúrate de que tu router esté encendido.\n2. Verifica que el dispositivo esté dentro del alcance.\n3. Asegúrate de que el Wi-Fi esté encendido y puedas ver tu red.\n4. Reinicia el dispositivo.\n\nNota: Si sigues los pasos anteriores, toca en 'Resuelto' y el sistema actualizará el estado del problema después de realizar una verificación exitosa del sistema después de un tiempo. Si aún tienes el problema, toca en 'Informar problema' para notificar a nuestro equipo de soporte.",
+            "Si el dispositivo no se enciende, conéctelo al iPort Multi Dock para iPhones o a la iPort Base Station/Pillar y verifique si el dispositivo se carga y se enciende.\n\na. Si el iPhone no se carga utilizando los iPorts, retire el adaptador del iPort del estuche y conéctelo al cargador de pared de Apple.\nb. Si el iPad no se carga, retírelo del estuche iPort y conéctelo al cargador de pared de Apple.\n\nSi el dispositivo aún no se carga, envíe un ticket para el RMA (reemplazo) del dispositivo.",
+            "Si el dispositivo falta en la tienda, envía un ticket de Dispositivo Perdido/Robado tocando el botón \"Reportar Problema\".",
+            "Si el dispositivo está roto o dañado, envía un ticket de Dispositivo Perdido/Robado tocando el botón \"Reportar Problema\".",
+            "Si el dispositivo no enciende, conéctalo al iPort Multi Dock para iPhones o iPort Base Station/Pillar y verifica si el dispositivo se carga y enciende.\n\na. Si el iPhone no se carga usando los iPorts, retira el adaptador del iPort del estuche y conéctalo al cargador de pared de Apple.\nb. Si el iPad no se carga, retíralo del estuche iPort y conéctalo al cargador de pared de Apple.\n\nSi el dispositivo aún no se carga, envía una solicitud de RMA (reemplazo) del dispositivo."
+        ]
+    },
+    "zh": {
+        "Title": [
+            "设备已关闭",
+            "网络连接丢失",
+            "充电问题 (Charging Issue)",
+            "设备被盗或丢失",
+            "设备损坏或破裂",
+            "设备无法开机"
+        ],
+        "Description": [
+            "如果设备无法开机，请连接到iPort Multi Dock for iPhones或iPort Base Station/Pillar，检查设备是否可以充电并开机。\n\na. 如果iPhone无法使用iPorts充电，请从外壳中取出iPort适配器插头，连接到苹果壁挂充电器。\nb. 如果iPad无法充电，请从iPort外壳中取出，连接到苹果壁挂充电器。\n\n如果设备仍无法充电，请提交设备更换的RMA（更换）申请。",
+            "如果您的iPhone或iPad无法连接到Wi-Fi，请按照以下步骤操作：\n\n1. 确保您的路由器已打开。\n2. 确保设备在范围内。\n3. 确保Wi-Fi已打开，您可以看到您的网络。\n4. 重新启动设备。\n\n注意：如果您按照上述步骤操作后，问题得到解决，请点击“已解决”，系统将在一段时间后更新问题状态。如果您仍然遇到问题，请点击“提出问题”以通知我们的支持团队。",
+            "如果设备无法开机，请连接到 iPort 多功能充电底座（适用于iPhone）或 iPort 基站/支柱，并检查设备是否能够充电和开机。\n\na. 如果 iPhone 无法使用 iPort 充电，请将 iPort 适配器插头从底座上取下，然后连接到苹果壁挂充电器。\nb. 如果 iPad 无法充电，请将其从 iPort 底座上取下，然后连接到苹果壁挂充电器。\n\n如果设备仍无法充电，请提交设备更换的 RMA（替换）申请单。",
+            "如果设备不见了，请点击“报告问题”按钮提交一张丢失/被盗设备工单。",
+            "如果设备损坏或损坏，请点击“报告问题”按钮提交丢失/被盗设备工单。",
+            "如果设备无法开机，请连接到适用于iPhone的iPort多功能底座或iPort基站/支柱，检查设备是否充电并开机。\n\na. 如果iPhone无法通过iPorts充电，请从壳体中拔出iPort适配器插头，连接到苹果壁挂充电器。\nb. 如果iPad无法充电，请从iPort壳体中取出，并连接到苹果壁挂充电器。\n\n如果设备仍无法充电，请提交设备更换的RMA（更换）申请单。"
+        ]
+    },
+    "vi": {
+        "Title": [
+            "Thiết bị đã tắt.",
+            "Mất kết nối mạng",
+            "Vấn đề sạc pin",
+            "Thiết bị bị đánh cắp hoặc mất",
+            "Thiết bị bị hỏng hoặc vỡ",
+            "Thiết bị không khởi động."
+        ],
+        "Description": [
+            "Nếu thiết bị không bật nguồn, kết nối với iPort Multi Dock cho iPhones hoặc iPort Base Station/Pillar và kiểm tra xem thiết bị có sạc và bật nguồn không.\n\na. Nếu iPhone không sạc bằng cách sử dụng iPorts, hãy tháo ổ cắm chuyển đổi iPort ra khỏi ốp và kết nối với sạc tường của Apple.\nb. Nếu iPad không sạc, hãy tháo ra khỏi ốp iPort và kết nối với sạc tường của Apple.\n\nNếu thiết bị vẫn không sạc, hãy gửi một yêu cầu hỗ trợ kỹ thuật để đổi mới thiết bị.",
+            "Trong trường hợp gặp vấn đề kết nối với Wi-Fi trên iPhone hoặc iPad của bạn.\n\n1. Đảm bảo bộ định tuyến của bạn đã được bật.\n2. Đảm bảo thiết bị nằm trong phạm vi kết nối.\n3. Đảm bảo Wi-Fi đã được bật và bạn có thể thấy mạng của mình.\n4. Khởi động lại thiết bị.\n\nLưu ý: Nếu bạn thực hiện các bước trên, hãy chạm vào 'Giải quyết' và hệ thống sẽ cập nhật trạng thái vấn đề sau khi kiểm tra hệ thống thành công sau một thời gian. Nếu vấn đề vẫn còn, hãy chạm vào 'Nâng cao vấn đề' để thông báo cho đội hỗ trợ của chúng tôi.",
+            "Nếu thiết bị không khởi động, hãy kết nối với iPort Multi Dock cho iPhones hoặc iPort Base Station/Pillar và kiểm tra xem thiết bị có sạc và khởi động không.\n\na. Nếu iPhone không sạc khi sử dụng iPorts, hãy tháo ổ cắm adapter iPort khỏi ốp và kết nối với bộ sạc tường của Apple.\nb. Nếu iPad không sạc, hãy tháo khỏi ốp iPort và kết nối với bộ sạc tường của Apple.\n\nNếu thiết bị vẫn không sạc, hãy gửi yêu cầu hỗ trợ (RMA) để được thay thế thiết bị.",
+            "Nếu thiết bị bị mất khỏi cửa hàng, hãy gửi một yêu cầu về Thiết bị Bị Mất/Đánh Cắp bằng cách nhấn vào nút \"Báo cáo Sự cố\".",
+            "Nếu thiết bị bị hỏng hoặc hư hại, vui lòng gửi một yêu cầu về Thiết bị bị mất/đánh cắp bằng cách nhấn vào nút \"Báo cáo vấn đề\".",
+            "Nếu thiết bị không bật nguồn, hãy kết nối với iPort Multi Dock cho iPhones hoặc iPort Base Station/Pillar và kiểm tra xem thiết bị có sạc và bật nguồn không.\n\na. Nếu iPhone không sạc khi sử dụng iPorts, hãy tháo ổ cắm chuyển đổi iPort ra khỏi ốp và kết nối với sạc tường Apple.\nb. Nếu iPad không sạc, hãy tháo ra khỏi ốp iPort và kết nối với sạc tường Apple.\n\nNếu thiết bị vẫn không sạc, hãy gửi yêu cầu bảo hành (đổi mới) cho thiết bị."
+        ]
+    },
+    "ko": {
+        "Title": [
+            "장치가 꺼졌습니다.",
+            "네트워크 연결이 끊겼습니다.",
+            "충전 문제",
+            "장치 도난 또는 분실",
+            "장치 손상 또는 고장",
+            "장치가 전원이 켜지지 않습니다."
+        ],
+        "Description": [
+            "만약 장치가 전원이 켜지지 않는다면, 아이포트 멀티 독 (아이폰용)이나 아이포트 베이스 스테이션/필러에 연결하여 장치가 충전되고 전원이 켜지는지 확인하십시오.\n\na. 아이폰이 i포트를 사용하여 충전되지 않는 경우, 케이스에서 i포트 어댑터 플러그를 제거하고 애플 월 충전기에 연결하십시오.\nb. 아이패드가 충전되지 않는 경우, i포트 케이스에서 제거하고 애플 월 충전기에 연결하십시오.\n\n장치가 여전히 충전되지 않는 경우, 장치를 교체하기 위해 RMA(교체) 티켓을 제출하십시오.",
+            "아이폰이나 아이패드의 Wi-Fi에 연결하는 데 문제가 발생하는 경우.\n\n1. 라우터 전원이 켜져 있는지 확인하십시오.\n2. 기기가 범위 내에 있는지 확인하십시오.\n3. Wi-Fi가 켜져 있는지 확인하고 네트워크를 볼 수 있는지 확인하십시오.\n4. 기기를 다시 시작하십시오.\n\n참고: 위 단계를 따른 후 '해결됨'을 탭하면 시스템이 일정 시간 후 성공적인 시스템 점검 후 문제 상태를 업데이트합니다. 여전히 문제가 발생하는 경우 '문제 제기'를 탭하여 지원팀에 알릴 수 있습니다.",
+            "만약 장치가 전원이 켜지지 않는다면, 아이포트 멀티 독 (아이폰용) 또는 아이포트 베이스 스테이션/피러에 연결하여 장치가 충전되고 전원이 켜지는지 확인하십시오.\n\na. 아이폰이 i포트를 사용하여 충전되지 않는 경우, 케이스에서 i포트 어댑터 플러그를 제거하고 애플 월 충전기에 연결하십시오.\nb. 아이패드가 충전되지 않는 경우, i포트 케이스에서 제거하고 애플 월 충전기에 연결하십시오.\n\n장치가 여전히 충전되지 않는 경우, 장치의 교체를 위해 RMA (교환) 티켓을 제출하십시오.",
+            "장치가 상점에서 누락된 경우 \"문제 신고\" 버튼을 탭하여 분실/도난된 장치 티켓을 제출하십시오.",
+            "장치가 고장이나 손상된 경우 \"문제 신고\" 버튼을 탭하여 분실/도난된 장치 티켓을 제출하십시오.",
+            "만약 장치가 전원이 켜지지 않는다면, 아이포트 멀티 독 (iPort Multi Dock) 또는 아이포트 베이스 스테이션/피러 (iPort Base Station/Pillar)에 연결하여 장치가 충전되고 전원이 켜지는지 확인하십시오.\n\na. 아이폰이 iPort를 사용하여 충전되지 않는 경우, 케이스에서 iPort 어댑터 플러그를 제거하고 애플 월 충전기에 연결하십시오.\nb. 아이패드가 충전되지 않는 경우, iPort 케이스에서 제거하고 애플 월 충전기에 연결하십시오.\n\n만약 장치가 여전히 충전되지 않는다면, 장치의 교체를 위한 RMA (반품 교환) 티켓을 제출하십시오."
+        ]
+    },
+    "am": {
+        "Title": [
+            "እንዴት ማድረግ አጥፋ፣ አጥፋ አጥፋ አጥፋ",
+            "በኔትዎርክ የተቀመጠ አገልግሎት ተወግዷል ።",
+            "ክፍት ማስታወቂያ",
+            "ማስታወሻ የተወሰደ ወይም ተጠፋ ቦታ",
+            "ማስተከብ ወደተ በቀለበት ወይም ማስተከብ የሚችል ነገር ነው።",
+            "ማስታወሻ አይቀርብም"
+        ],
+        "Description": [
+            "እርግጥ እባኮት አይለውስ። እርግጥ አይለውስ እርካታ አገልግሎት ለገባበት መቁቻ እና እርግጥ እርካታ አገልግሎት አስገምግም።\n\nእርግጥ እርካታ አገልግሎት ለገባበት መቁቻ አጠቃላይ የሆነው የiPhone አገልግሎት አስቀምጥ ከፋይን ያስተካክላል።\nእርግጥ እርካታ አገልግሎት ለገባበት iPad አገልግሎት አስቀምጥ።\n\nእርግጥ እባኮት እናንተ አንድነት አልተቻለም። እባኮት የRMA (ለእንዴት በተለያዩ እባኮት አስቀምጥ) መቁቻ ይከናወን።",
+            "ለማንኛውም በመጠቀም ማለት የሚችል በዚህ ግዜ በእርስዎ iPhone ወይም iPad ላይ ይጠቀሙት ምንም ነገር አለብን።\n\n1. ከተለዋወጡ ከሆነ አዲስ ሞገስዎን አብራቀር።\n2. በማንኛውም ምልክት ውስጥ አለበት እና የእርስዎ ምልክት በመስራት ነበር።\n3. ስለዚህ የWi-Fi እንዴት አካል እና ከእርስዎ ማህበረሰብ አለብን።\n4. ማህበረሰብዎን አዘጋጅ።\n\nማለት: በተለዋወጡ ተጠቃሚዎች በመሆኑ 'የተለዋወጡ' እና ስለሌላ እርስዎ ስለሚያገኙ ፈቃዶች በተመለከተው ስሜት በተመለከተው አስተካክል አዘጋጅ። እስከ ማንኛውም በተለዋወጡ ስሜት እናም በሚቀርብ እርስዎ ምንም ነገር ተመልከቱ።",
+            "እስከ እንደሚታይ ያለበት ማሰል አልተሳካም። እስከ iPort Multi Dock for iPhones ወይም iPort Base Station/Pillar ደንብ ማስተካከል አልተቻለም።\n\nአፕሊክስ:\na. እንዲህ ከሌላ አውታር ጋር ማስተካከል አልተቻለም ከሚቀጥሉት iPort አስተምሪት አባት አጥፋ።\nb. እንዲህ በአልካክ ሌላ አፕሊክስ ማስተካከል አልተቻለም ከሚቀጥሉት iPort አስተምሪት አጥፋ።\n\nእስከ እንደሚታይ ያለበት ማሰል መቀጠል አልተቻለም። እባኮ እባኮ እባኮ ገና ምንም ማስተካከል አልተቻለም ፈልግ። (ማስተካከል) የማስተካከል ማሰል ለመከላከል ብቻ እባኮ እባኮ እባኮ እባኮ ገና ውጣ።",
+            "እሴት ማህበረሰብን በምሳሌ ለማስተካከል እባኮት አዳራሽ እንዲከሰት ሊመጣ ይችላሉ።",
+            "እርግጥ መተግበሪያው በተቻለው ሰርተው ማህከም ያስገቡ፣ ለመለየት ስለሚገኙ መተግበሪዎች ትክክለኛ ማህከም ቦታ ለመነጋገር የሚከተሉን “ማህከም ምንጭ” እባኮ ይጠቀሙ።",
+            "እሴት አንድም አልተገባም ይህን ለመላክ, እባኮት አዝራሩን እናገናለን ከሚበለጥም ያስከትላል የአይፖርት ሙሉ ድክ ለአይፎንእም ወይም ለአይፖርት ባስ ማረጋገጥ እና ለእርስዎ ስልክ እና እንዲሁ የእሴት ማረጋገጥ እንዲሰጡ ማረጋገጥ አስፈላጊ አልተሰጣም።\n\nእሴት አንድም አልተገባም ይህን ለመላክ, እባኮት አዝራሩን ከፋይን ማረጋገጥ እና ከአየር ልብ አንድም አልተገባም ይህን ለመላክ።\n\nእሴት እሴት አንድም አልተገባም እገናኝን ከሚበለጥም እና ከመቀረብ ያለው ይህን ለመላክ የሚቀጥል ቴኬት ጽሁፍ እና ማረጋገጥ ለማሳየት ማረጋገጥ እንዲሰጡ ቴኬት እና እሴት ለመላክ የሚቀጥል ቴኬት ጽሁፍ እና ማረጋገጥ ለማሳየት ማረጋገጥ አስፈላጊ አልተሰጣም።"
+        ]
+    },
+    "hi": {
+        "Title": [
+            "उपकरण बंद किया गया है।",
+            "नेटवर्क कनेक्शन खो गया।",
+            "चार्जिंग समस्या",
+            "उपकरण चोरी या खो गया है।",
+            "उपकरण क्षतिग्रस्त या टूटा हुआ है।",
+            "यंत्र चालू नहीं हो रहा है।"
+        ],
+        "Description": [
+            "यदि डिवाइस चालू नहीं होती है, तो आईपोर्ट मल्टी डॉक फॉर आईफोन या आईपोर्ट बेस स्टेशन/पिलर से कनेक्ट करें और देखें कि क्या डिवाइस चार्ज होती है और चालू होती है।\n\na.\tयदि आईफोन आईपोर्ट का उपयोग करके चार्ज नहीं होता है, तो केस से आईपोर्ट एडाप्टर प्लग निकालें और एप्पल वॉल चार्जर से कनेक्ट करें।\nb.\tयदि आईपैड चार्ज नहीं होता है, तो आईपोर्ट केस से निकालें और एप्पल वॉल चार्जर से कनेक्ट करें।\n\nअगर डिवाइस फिर भी चार्ज नहीं होती है, तो डिवाइस की RMA (पुनर्स्थापन) के लिए एक टिकट सबमिट करें।",
+            "यदि आपके iPhone या iPad पर आपके Wi-Fi से कनेक्ट करने में समस्या हो तो निम्नलिखित करें।\n\n1. सुनिश्चित करें कि आपका राउटर चालू है।\n2. यह सुनिश्चित करें कि यंत्र सीमा के भीतर है।\n3. सुनिश्चित करें कि Wi-Fi चालू है और आप अपने नेटवर्क को देख सकते हैं।\n4. यंत्र को पुनः आरंभ करें।\n\nध्यान दें: यदि आप उपरोक्त कदमों का पालन करते हैं, तो 'सुलझाया गया' पर टैप करें और सिस्टम सफल सिस्टम चेक के बाद समस्या स्थिति को अपडेट करेगा। यदि आप फिर भी समस्या का सामना कर रहे हैं, तो 'समस्या उठाने' पर टैप करें और हमारी सहायता टीम को सूचित करें।",
+            "यदि उपकरण चालू नहीं होता है, तो आईपोर्ट मल्टी डॉक फॉर आईफोन या आईपोर्ट बेस स्टेशन/पिलर से कनेक्ट करें और जांचें कि उपकरण चार्ज होता है और चालू होता है।\n\na. यदि आईफोन आईपोर्ट का उपयोग करके चार्ज नहीं होता है, तो केस से आईपोर्ट एडाप्टर प्लग निकालें और एप्पल वॉल चार्जर से कनेक्ट करें।\nb. यदि आईपैड चार्ज नहीं होता है, तो आईपोर्ट केस से निकालें और एप्पल वॉल चार्जर से कनेक्ट करें।\n\nअगर उपकरण फिर भी चार्ज नहीं होता है, तो डिवाइस की आरएमए (पुनर्स्थापन) के लिए टिकट सबमिट करें।",
+            "यदि उपकरण स्टोर से गायब है, तो \"रिपोर्ट समस्या\" बटन पर टैप करके एक खो गया/चोरी हुआ उपकरण टिकट सबमिट करें।",
+            "अगर यह उपकरण टूटा हुआ या नुकसान हुआ है, तो \"रिपोर्ट मुद्दा\" बटन पर टैप करके एक खोया/चोरी हुआ उपकरण टिकट सबमिट करें।",
+            "अगर उपकरण चालू नहीं होता है, तो आईपोर्ट मल्टी डॉक फॉर आईफोन या आईपोर्ट बेस स्टेशन/पिलर से कनेक्ट करें और देखें कि उपकरण चार्ज होता है और चालू होता है।\n\na. यदि आईफोन आईपोर्ट्स का उपयोग करके चार्ज नहीं होता है, तो केस से आईपोर्ट एडाप्टर प्लग निकालें और एप्पल वॉल चार्जर से कनेक्ट करें।\nb. यदि आईपैड चार्ज नहीं होता है, तो आईपोर्ट केस से निकालें और एप्पल वॉल चार्जर से कनेक्ट करें।\n\nअगर उपकरण अभी भी चार्ज नहीं होता है, तो उपकरण की आरएमए (प्रतिस्थापन) के लिए टिकट जमा करें।"
+        ]
+    },
+    "en": {
+        "Title": [
+            "\"Device switched off\"",
+            "Network Connection Lost",
+            "\"Charging Issue\"",
+            "Dispositivo robado o perdido",
+            "\"Device damaged or broken\"",
+            "Dispositivo no se enciende."
+        ],
+        "Description": [
+            "If the device is not turning on, connect it to the iPort Multi Dock for iPhones or iPort Base Station/Pillar to see if the device charges and powers on.\n\na. If the iPhone does not charge when using iPorts, remove the iPort adapter plug from the case and connect it to an Apple wall charger.\nb. If the iPad does not charge, remove it from the iPort case and connect it to an Apple wall charger.\n\nIf the device still does not charge, please submit a ticket for RMA (replacement) of the device.",
+            "In case you are having trouble connecting to your Wi-Fi on your iPhone or iPad.\n\n1. Make sure your router is turned on.\n2. Ensure the device is within range.\n3. Make sure Wi-Fi is turned on and you can see your network.\n4. Restart the device.\n\nNote: If you follow the above steps and the issue is resolved, tap on 'Resolved' and the system will update the issue status after a successful system check. If you still encounter the issue, tap on 'Raise issue' to inform our support team.",
+            "If the device does not turn on, connect it to the iPort Multi Dock for iPhones or iPort Base Station/Pillar and check if the device charges and turns on.\n\na. If the iPhone does not charge when using iPorts, remove the iPort adapter plug from the case and connect it to an Apple wall charger.\nb. If the iPad does not charge, remove it from the iPort case and connect it to an Apple wall charger.\n\nIf the device still does not charge, please submit a ticket for the RMA (replacement) of the device.",
+            "If the device is missing from the store, submit a Lost/Stolen Device ticket by tapping on the “Report Issue” button.",
+            "If the device is broken or damaged, submit a lost/stolen device ticket by tapping on the \"Report Issue\" button.",
+            "If the device does not turn on, connect it to the iPort Multi Dock for iPhones or iPort Base Station/Pillar and check if the device charges and powers on.\n\na. If the iPhone does not charge when using iPorts, remove the iPort adapter plug from the case and connect it to an Apple wall charger.\nb. If the iPad does not charge, remove it from the iPort case and connect it to an Apple wall charger.\n\nIf the device still does not charge, please submit a ticket for RMA (replacement) of the device."
+        ]
+    }
+}

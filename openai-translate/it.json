@@ -1,0 +1,14 @@
+{
+    "FIX_1_title": "\"Dispositivo spento\"",
+    "FIX_1_description": "Se il dispositivo non si accende, collegarlo a iPort Multi Dock per iPhone o a iPort Base Station/Pillar e verificare se il dispositivo si carica e si accende.\n\na. Se l'iPhone non si carica utilizzando iPort, rimuovere la spina dell'adattatore iPort dalla custodia e collegarla al caricatore da parete Apple.\nb. Se l'iPad non si carica, rimuoverlo dalla custodia iPort e collegarlo al caricatore da parete Apple.\n\nSe il dispositivo continua a non caricarsi, inviare una richiesta di assistenza per la sostituzione del dispositivo (RMA).",
+    "FIX_2_title": "Connessione di rete persa",
+    "FIX_2_description": "Nel caso ci sia un problema di connessione al Wi-Fi sul tuo iPhone o iPad.\n\n1. Assicurati che il router sia acceso.\n2. Verifica che il dispositivo sia all'interno del raggio d'azione.\n3. Assicurati che il Wi-Fi sia acceso e che tu possa vedere la tua rete.\n4. Riavvia il dispositivo.\n\nNota: Se segui i passaggi sopra indicati, tocca su 'Risolto' e il sistema aggiornerà lo stato del problema dopo un controllo di sistema riuscito dopo un po' di tempo. Se riscontri ancora il problema, tocca su 'Segnala problema' per informare il nostro team di supporto.",
+    "FIX_3_title": "Problema di ricarica",
+    "FIX_3_description": "Se il dispositivo non si accende, collegarlo a iPort Multi Dock per iPhone o a iPort Base Station/Pillar e verificare se il dispositivo si carica e si accende.\n\na. Se l'iPhone non si carica utilizzando iPort, rimuovere la spina adattatore iPort dalla custodia e collegarla al caricabatterie da parete Apple.\nb. Se l'iPad non si carica, rimuoverlo dalla custodia iPort e collegarlo al caricabatterie da parete Apple.\n\nSe il dispositivo non si carica ancora, inviare una richiesta di assistenza per la sostituzione del dispositivo.",
+    "FIX_4_title": "Dispositivo rubato o smarrito",
+    "FIX_4_description": "Se il dispositivo è mancante dal negozio, invia un ticket per Dispositivo Smarrito/Rubato premendo sul pulsante \"Segnala Problema\".",
+    "FIX_5_title": "Dispositivo danneggiato o rotto",
+    "FIX_5_description": "Se il dispositivo è rotto o danneggiato, invia un ticket per Dispositivo Smarrito/Rubato premendo sul pulsante \"Segnala Problema\".",
+    "FIX_6_title": "Il dispositivo non si accende.",
+    "FIX_6_description": "Se il dispositivo non si accende, collegarlo a iPort Multi Dock per iPhone o a iPort Base Station/Pillar e verificare se il dispositivo si carica e si accende.\n\na. Se l'iPhone non si carica utilizzando iPort, rimuovere la spina dell'adattatore iPort dalla custodia e collegarla al caricabatterie da parete Apple.\nb. Se l'iPad non si carica, rimuoverlo dalla custodia iPort e collegarlo al caricabatterie da parete Apple.\n\nSe il dispositivo non si carica ancora, inviare una richiesta di assistenza per la sostituzione del dispositivo (RMA)."
+}

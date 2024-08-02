@@ -1,0 +1,14 @@
+{
+    "FIX_1_title": "\"Dispositivo apagado\"",
+    "FIX_1_description": "Si el dispositivo no se enciende, conéctelo al iPort Multi Dock para iPhones o a la Estación Base/Pilar iPort y compruebe si el dispositivo se carga y enciende.\n\na. Si el iPhone no se carga utilizando los iPorts, retire el adaptador del iPort del estuche y conéctelo al cargador de pared de Apple.\nb. Si el iPad no se carga, retírelo del estuche iPort y conéctelo al cargador de pared de Apple.\n\nSi el dispositivo aún no se carga, envíe una solicitud de RMA (reemplazo) del dispositivo.",
+    "FIX_2_title": "Conexión de red perdida.",
+    "FIX_2_description": "En caso de que haya un problema al conectarse a tu Wi-Fi en tu iPhone o iPad.\n\n1. Asegúrate de que tu router esté encendido.\n2. Verifica que el dispositivo esté dentro del alcance.\n3. Asegúrate de que el Wi-Fi esté activado y puedas ver tu red.\n4. Reinicia el dispositivo.\n\nNota: Si sigues los pasos anteriores y tocas en 'Resuelto', el sistema actualizará el estado del problema después de realizar una verificación exitosa después de un tiempo. Si sigues teniendo problemas, toca en 'Reportar problema' para informar a nuestro equipo de soporte.",
+    "FIX_3_title": "Problema de carga",
+    "FIX_3_description": "Si el dispositivo no se enciende, conéctelo al iPort Multi Dock para iPhones o a la Estación Base/Pilar iPort y verifique si el dispositivo se carga y se enciende.\n\na. Si el iPhone no se carga utilizando los iPorts, retire el adaptador del iPort del estuche y conéctelo al cargador de pared de Apple.\nb. Si el iPad no se carga, retírelo del estuche iPort y conéctelo al cargador de pared de Apple.\n\nSi el dispositivo aún no se carga, envíe un ticket para el RMA (reemplazo) del dispositivo.",
+    "FIX_4_title": "Dispositivo robado o perdido.",
+    "FIX_4_description": "Si el dispositivo falta en la tienda, envíe un ticket de Dispositivo Perdido/Robado tocando el botón \"Reportar Problema\".",
+    "FIX_5_title": "Dispositivo dañado o roto.",
+    "FIX_5_description": "Si el dispositivo está roto o dañado, envíe un ticket de Dispositivo Perdido/Robado tocando el botón \"Reportar Problema\".",
+    "FIX_6_title": "El dispositivo no se enciende.",
+    "FIX_6_description": "Si el dispositivo no se enciende, conéctelo a iPort Multi Dock para iPhones o iPort Base Station/Pillar y verifique si el dispositivo se carga y se enciende.\n\na. Si el iPhone no se carga usando iPorts, retire el adaptador de iPort del estuche y conéctelo al cargador de pared de Apple.\nb. Si el iPad no se carga, retírelo del estuche de iPort y conéctelo al cargador de pared de Apple.\n\nSi el dispositivo aún no se carga, envíe un ticket para RMA (reemplazo) del dispositivo."
+}

@@ -1,0 +1,14 @@
+{
+    "FIX_1_title": "\"Appareil éteint\"",
+    "FIX_1_description": "Si l'appareil ne s'allume pas, connectez-le au iPort Multi Dock pour iPhone ou à la Station de base/Pilier iPort et vérifiez si l'appareil se charge et s'allume.\n\na. Si l'iPhone ne se charge pas avec les iPorts, retirez la fiche d'adaptateur iPort du boîtier et connectez-la à un chargeur mural Apple.\nb. Si l'iPad ne se charge pas, retirez-le du boîtier iPort et connectez-le à un chargeur mural Apple.\n\nSi l'appareil ne se charge toujours pas, soumettez un ticket pour un RMA (remplacement) de l'appareil.",
+    "FIX_2_title": "Connexion réseau perdue",
+    "FIX_2_description": "En cas de problème de connexion à votre Wi-Fi sur votre iPhone ou iPad :\n\n1. Assurez-vous que votre routeur est allumé.\n2. Vérifiez que l'appareil est dans la portée du réseau.\n3. Assurez-vous que le Wi-Fi est activé et que vous pouvez voir votre réseau.\n4. Redémarrez l'appareil.\n\nRemarque : Si les étapes ci-dessus ont été suivies et que le problème a été résolu, appuyez sur \"Résolu\" et le système mettra à jour le statut du problème après une vérification réussie. Si le problème persiste, appuyez sur \"Signaler un problème\" pour informer notre équipe de support.",
+    "FIX_3_title": "Problème de chargement",
+    "FIX_3_description": "Si l'appareil ne s'allume pas, connectez-le au iPort Multi Dock pour iPhone ou à la Station de Base/Pilier iPort et vérifiez si l'appareil se charge et s'allume.\n\na. Si l'iPhone ne se charge pas avec les iPorts, retirez l'adaptateur iPort du boîtier et connectez-le à un chargeur mural Apple.\nb. Si l'iPad ne se charge pas, retirez-le du boîtier iPort et connectez-le à un chargeur mural Apple.\n\nSi l'appareil ne se charge toujours pas, soumettez un ticket pour un RMA (remplacement) de l'appareil.",
+    "FIX_4_title": "Appareil volé ou perdu",
+    "FIX_4_description": "Si l'appareil est manquant dans le magasin, soumettez un ticket pour appareil perdu/volé en appuyant sur le bouton \"Signaler un problème\".",
+    "FIX_5_title": "Appareil endommagé ou cassé",
+    "FIX_5_description": "Si l'appareil est cassé ou endommagé, soumettez un ticket pour appareil perdu/volé en appuyant sur le bouton \"Signaler un problème\".",
+    "FIX_6_title": "L'appareil ne s'allume pas.",
+    "FIX_6_description": "Si l'appareil ne s'allume pas, connectez-le à l'iPort Multi Dock pour iPhone ou à la station de base/pilier iPort et vérifiez si l'appareil se charge et s'allume.\n\na. Si l'iPhone ne se charge pas avec les iPorts, retirez le connecteur de l'adaptateur iPort du boîtier et connectez-le au chargeur mural Apple.\nb. Si l'iPad ne se charge pas, retirez-le du boîtier iPort et connectez-le au chargeur mural Apple.\n\nSi l'appareil ne se charge toujours pas, soumettez un ticket pour un RMA (remplacement) de l'appareil."
+}
