@@ -1,9 +1,11 @@
 import pandas as pd
 import openai
+import os
+from dotenv import load_dotenv
 import json
 
 # OpenAI API key
-openai.api_key = 'sk-proj-U0Hcuszuv8bwBgzqHcVyT3BlbkFJwZywdlOm8m49pG6ZIiSq'
+openai.api_key = os.getenv('OPENAI_API_KEY')
 # Load the Excel file
 df = pd.read_excel('Localization-master-sheet.xlsx', header=None)
 

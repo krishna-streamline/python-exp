@@ -1,10 +1,12 @@
 import pandas as pd
+import os
+from dotenv import load_dotenv
 import openai
 import json
 from datetime import datetime
 
 # Initialize OpenAI API (replace 'your-api-key' with your actual API key)
-openai.api_key = 'sk-proj-U0Hcuszuv8bwBgzqHcVyT3BlbkFJwZywdlOm8m49pG6ZIiSq'
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # Load the Excel file
 file_path = 'input.xlsx'
