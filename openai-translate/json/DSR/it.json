@@ -1,0 +1,12 @@
+{
+    "DM_DS_OFFLINE_REASON": "1. Vai su Impostazioni.\n2. Assicurati che il wifi sia ACCESO e connesso a \"K-EVA\".\n3. Se il problema non si risolve, connettilo manualmente cliccando su \"K-EVA\" Wi-Fi.\n4. Se il problema persiste, riavvia il dispositivo.",
+    "DM_DS_BATTERY_REASON": "1. Assicurarsi che il dispositivo sia collegato al punto di ricarica.\n2. Controllare l'icona della batteria con un'icona di carica per verificare che il dispositivo si stia ricaricando.",
+    "DM_DS_APP_REASON": "1. Controlla che il dispositivo sia connesso a Wi-Fi.\n2. Apri 'Self Service' sul tuo dispositivo.\n3. Sfoglia o cerca nella Libreria di Self Service per individuare l'App.\n4. Seleziona l'App e tocca il pulsante \"Installa\" per scaricarlo e installarlo sul tuo dispositivo.\n5. Vedrai un segno di spunta quando l'app sarà installata sul dispositivo.",
+    "DM_DS_OS_REASON": "Prima di chiudere il negozio per il giorno:\n1. Confermare che il dispositivo sia collegato alla base di alimentazione.\n2. Confermare che l'icona di ricarica nell'angolo in alto a destra sia attiva.\nAssicurarsi che il dispositivo sia collegato alla rete:\n1. Andare su Impostazioni.\n2. Assicurarsi che il wifi sia ATTIVO e collegato a \"K-EVA\".\n3. Se il problema non viene risolto, collegarlo manualmente cliccando su Wi-Fi \"K-EVA\".\n4. Se il problema persiste, riavviare il dispositivo.",
+    "DM_DS_CERTICATES_REASON": "1. Vai su Impostazioni.\n2. Assicurati che il wifi sia ACCESO e connesso a \"K-EVA\".\n3. Se il problema non si risolve, connettilo manualmente cliccando su \"K-EVA\" Wi-Fi.\n4. Se il problema persiste, riavvia il dispositivo.",
+    "DM_DS_OFFLINE_REASON_TITLE": "Stato offline",
+    "DM_DS_BATTERY_REASON_TITLE": "Batteria",
+    "DM_DS_APP_REASON_TITLE": "Applicazioni",
+    "DM_DS_OS_REASON_TITLE": "Sistema operativo",
+    "DM_DS_CERTICATES_REASON_TITLE": "Certificati"
+}

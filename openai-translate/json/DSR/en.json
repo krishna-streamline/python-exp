@@ -1,0 +1,12 @@
+{
+    "DM_DS_OFFLINE_REASON": "1.Go to Settings.\n2.Ensure the wifi is ON and connected to “K-EVA”.\n3.If issue not resolved, connect it manually by clicking on “K-EVA” Wi-Fi.\n4.If problem still exists, restart the device.",
+    "DM_DS_BATTERY_REASON": "1.Ensure the device is connected to the charging point.\n2.Check the battery icon with a charging icon to make sure the device is charging.",
+    "DM_DS_APP_REASON": "1.Check the device is connected to Wi-Fi.\n2.Open ‘Self Service’ on your device.\n3.Browse or search the Self Service Library to locate the App.\n4.Select the App, and tap on the \"Install\" button to download and install it on your device.\n5.You will see a checkmark when the app is installed on the device.",
+    "DM_DS_OS_REASON": "Before closing the store for the day:\n1.Confirm device is connected to power dock.\n2.Confirm the charging icon on the top right corner is active.\nEnsure the device is connected to network:\n1.Go to Settings.\n2.Ensure the wifi is ON and connected to “K-EVA”.\n3.If issue not resolved, connect it manually by clicking on “K-EVA” Wi-Fi.\n4.If problem still exists, restart the device.",
+    "DM_DS_CERTICATES_REASON": "1. Go to Settings.\n2. Ensure the wifi is ON and connected to “K-EVA”.\n3. If issue not resolved, connect it manually by clicking on “K-EVA” Wi-Fi.\n4. If problem still exists, restart the device.",
+    "DM_DS_OFFLINE_REASON_TITLE": "Offline Status",
+    "DM_DS_BATTERY_REASON_TITLE": "Battery",
+    "DM_DS_APP_REASON_TITLE": "Apps",
+    "DM_DS_OS_REASON_TITLE": "OS",
+    "DM_DS_CERTICATES_REASON_TITLE": "Certificates"
+}

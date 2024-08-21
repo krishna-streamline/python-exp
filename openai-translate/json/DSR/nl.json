@@ -1,0 +1,12 @@
+{
+    "DM_DS_OFFLINE_REASON": "1. Ga naar Instellingen.\n2. Zorg ervoor dat de wifi AAN staat en verbonden is met \"K-EVA\".\n3. Als het probleem niet is opgelost, verbind het dan handmatig door te klikken op \"K-EVA\" Wi-Fi.\n4. Als het probleem nog steeds bestaat, herstart het apparaat.",
+    "DM_DS_BATTERY_REASON": "1. Zorg ervoor dat het apparaat is aangesloten op het laadpunt.\n2. Controleer het batterijpictogram met een laadpictogram om er zeker van te zijn dat het apparaat aan het opladen is.",
+    "DM_DS_APP_REASON": "1. Controleer of het apparaat is verbonden met Wi-Fi.\n2. Open 'Self Service' op uw apparaat.\n3. Blader door of zoek in de Self Service-bibliotheek om de app te vinden.\n4. Selecteer de app en tik op de knop \"Installeren\" om deze te downloaden en te installeren op uw apparaat.\n5. U ziet een vinkje wanneer de app is geïnstalleerd op het apparaat.",
+    "DM_DS_OS_REASON": "Voor het sluiten van de winkel voor de dag:\n1. Bevestig dat het apparaat is aangesloten op het oplaaddock.\n2. Bevestig dat het oplaadpictogram in de rechterbovenhoek actief is.\nZorg ervoor dat het apparaat is verbonden met het netwerk:\n1. Ga naar Instellingen.\n2. Zorg ervoor dat wifi AAN staat en verbonden is met \"K-EVA\".\n3. Als het probleem niet is opgelost, verbind het dan handmatig door op \"K-EVA\" Wi-Fi te klikken.\n4. Als het probleem nog steeds bestaat, herstart het apparaat.",
+    "DM_DS_CERTICATES_REASON": "1. Ga naar Instellingen.\n2. Zorg ervoor dat de wifi AAN staat en verbonden is met \"K-EVA\".\n3. Als het probleem niet is opgelost, verbind het dan handmatig door te klikken op \"K-EVA\" Wi-Fi.\n4. Als het probleem nog steeds bestaat, herstart het apparaat.",
+    "DM_DS_OFFLINE_REASON_TITLE": "Offline status",
+    "DM_DS_BATTERY_REASON_TITLE": "Batterij",
+    "DM_DS_APP_REASON_TITLE": "Apps",
+    "DM_DS_OS_REASON_TITLE": "Besturingssysteem",
+    "DM_DS_CERTICATES_REASON_TITLE": "Certificaten"
+}

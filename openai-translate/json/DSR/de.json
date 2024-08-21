@@ -1,0 +1,12 @@
+{
+    "DM_DS_OFFLINE_REASON": "1. Gehe zu den Einstellungen.\n2. Stelle sicher, dass das WLAN eingeschaltet ist und mit \"K-EVA\" verbunden ist.\n3. Wenn das Problem nicht behoben ist, verbinde es manuell, indem du auf \"K-EVA\" WLAN klickst.\n4. Wenn das Problem weiterhin besteht, starte das Gerät neu.",
+    "DM_DS_BATTERY_REASON": "1. Stellen Sie sicher, dass das Gerät mit dem Ladeanschluss verbunden ist.\n2. Überprüfen Sie das Batteriesymbol mit einem Ladesymbol, um sicherzustellen, dass das Gerät geladen wird.",
+    "DM_DS_APP_REASON": "1. Überprüfen Sie, ob das Gerät mit Wi-Fi verbunden ist.\n2. Öffnen Sie \"Self Service\" auf Ihrem Gerät.\n3. Durchsuchen oder suchen Sie die Self Service-Bibliothek, um die App zu finden.\n4. Wählen Sie die App aus und tippen Sie auf die Schaltfläche \"Installieren\", um sie auf Ihrem Gerät herunterzuladen und zu installieren.\n5. Sie sehen ein Häkchen, wenn die App auf dem Gerät installiert ist.",
+    "DM_DS_OS_REASON": "Vor dem Schließen des Geschäfts für den Tag:\n1. Bestätigen Sie, dass das Gerät mit der Stromdockingstation verbunden ist.\n2. Bestätigen Sie, dass das Ladesymbol in der oberen rechten Ecke aktiv ist.\nStellen Sie sicher, dass das Gerät mit dem Netzwerk verbunden ist:\n1. Gehen Sie zu den Einstellungen.\n2. Stellen Sie sicher, dass das WLAN eingeschaltet ist und mit \"K-EVA\" verbunden ist.\n3. Wenn das Problem nicht behoben ist, verbinden Sie es manuell, indem Sie auf \"K-EVA\" Wi-Fi klicken.\n4. Wenn das Problem weiterhin besteht, starten Sie das Gerät neu.",
+    "DM_DS_CERTICATES_REASON": "1. Gehe zu den Einstellungen.\n2. Stelle sicher, dass das WLAN eingeschaltet ist und mit \"K-EVA\" verbunden ist.\n3. Wenn das Problem nicht behoben ist, verbinde es manuell, indem du auf \"K-EVA\" WLAN klickst.\n4. Wenn das Problem weiterhin besteht, starte das Gerät neu.",
+    "DM_DS_OFFLINE_REASON_TITLE": "Offline-Status",
+    "DM_DS_BATTERY_REASON_TITLE": "Batterie",
+    "DM_DS_APP_REASON_TITLE": "Apps",
+    "DM_DS_OS_REASON_TITLE": "Betriebssystem",
+    "DM_DS_CERTICATES_REASON_TITLE": "Zertifikate"
+}
